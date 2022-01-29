@@ -4,12 +4,12 @@ while 'issues' in condition:
   print('Do the the best for better world')
   try:
     totalhours = 24
-    habbit = 'lying on the bed while watching social media to see other\'s fckn life'
+    habbit = 'lying on the bed while watching social media to see other\'s ffff life'
     is = habbit * totalhours
   else:
     raise ValueError('It will never solve, then what?')
   finally:
-    print('Get back to your laptop and fix your fckn code')
+    print('Get back to your laptop and fix your ffff code')
 ```
 ## 🧔 Profile
 
