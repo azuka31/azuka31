@@ -37,24 +37,15 @@ while 'issues' in condition:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=visualbasic&logoColor=white&color=6aa6f8)
 
 #### Data Processing Tools
 ![](https://img.shields.io/badge/RDBMS-HiveQL-informational?style=flat&logo=hive&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Python-Dask-informational?style=flat&logo=dask&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/RDBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/RDBMS-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/MS-Excel-informational?style=flat&logo=microsoft&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/RDBMS-Scala-informational?style=flat&logo=scala&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-mongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=6aa6f8)
 
 #### Parallel Computing and ETL
 ![](https://img.shields.io/badge/BigData-ApacheHadoop-informational?style=flat&logo=apachehadoop&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/BigData-ApacheSpark-informational?style=flat&logo=apachespark&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/ETL-Pentaho-informational?style=flat&logo=pentaho&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/ETL-ApacheAirflow-informational?style=flat&logo=apacheairflow&logoColor=white&color=6aa6f8)
 
 #### Statistics and Machine Learning
 ![](https://img.shields.io/badge/Python-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=6aa6f8)
@@ -65,7 +56,7 @@ while 'issues' in condition:
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Python-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Microsoft-ThinkCell-informational?style=flat&logo=thinkcell&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Python-Bokeh-informational?style=flat&logo=bokeh&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Python-Plotly-informational?style=flat&logo=bokeh&logoColor=white&color=6aa6f8)
 
 #### Computational Science
 ![](https://img.shields.io/badge/Linux-Gromacs-informational?style=flat&logo=gromacs&logoColor=white&color=6aa6f8)
