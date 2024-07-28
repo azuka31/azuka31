@@ -56,4 +56,6 @@ Once I switched up my workflow, it completely transformed my productivity. I was
 
 ![image1](readme_githup_workspace.excalidraw.png)
 
-If you are interested in to learn my setting, I'm so glad to share with you by just click my special repository here
+If you are interested in to learn my setting, I'm so glad to share with you by just click my special repository here 
+[AzukaWorkspace](https://github.com/azuka31/AzukaWorkspace/tree/master)
+
