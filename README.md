@@ -11,6 +11,9 @@ while 'issues' in condition:
   finally:
     print('Get back to your laptop and fix your code')
 ```
+
+
+
 ## :sunglasses: Profile
 
 - :computer: Working with remarkable team **Advanced Analytics and Growth Marketing, Telkomsel**
@@ -20,6 +23,7 @@ while 'issues' in condition:
 - :runner: Daily Activity **Learning, Coding, and Physical Exercise**
 
 
+
 ## :newspaper: Latest Medium Blogs
 
 - [Python Date and Time I’ve Found Very Useful and Frequently Used as a Data Analyst](https://python.plainenglish.io/python-date-and-time-ive-found-very-useful-and-frequently-used-as-data-analyst-556122a4da99)
@@ -27,23 +31,23 @@ while 'issues' in condition:
 
 ## :computer: Technical Skills
 
-|Key Aspects|Tools|
-|---|---|
+| Key Aspects | Tools |
+|-------------|-------|
 Programming languages| ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)|
-|Data Processing Tools| ![](https://img.shields.io/badge/RDBMS-HiveQL-informational?style=flat&logo=hive&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/MS-Excel-informational?style=flat&logo=microsoft&logoColor=white&color=6aa6f8)|
-|Big Data Framework| ![](https://img.shields.io/badge/BigData-ApacheHadoop-informational?style=flat&logo=apachehadoop&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/BigData-ApacheSpark-informational?style=flat&logo=apachespark&logoColor=white&color=6aa6f8)|
-|Statistics and Machine Learning| ![](https://img.shields.io/badge/Python-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-statsmodels-informational?style=flat&logo=statsmodels&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-sklearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=6aa6f8)|
-|Data Visualization|![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Microsoft-ThinkCell-informational?style=flat&logo=thinkcell&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-Plotly-informational?style=flat&logo=bokeh&logoColor=white&color=6aa6f8)
-|Computational Science|![](https://img.shields.io/badge/Linux-Gromacs-informational?style=flat&logo=gromacs&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Linux-VMD-informational?style=flat&logo=vmd&logoColor=white&color=6aa6f8)|
-|Work Space|![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Terminal-iTerm-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+| Data Processing Tools           | ![](https://img.shields.io/badge/RDBMS-HiveQL-informational?style=flat&logo=hive&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/MS-Excel-informational?style=flat&logo=microsoft&logoColor=white&color=6aa6f8)                                                                                                                                                                          |
+| Big Data Framework              | ![](https://img.shields.io/badge/BigData-ApacheHadoop-informational?style=flat&logo=apachehadoop&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/BigData-ApacheSpark-informational?style=flat&logo=apachespark&logoColor=white&color=6aa6f8)                                                                                                                                                                                                                                                                              |
+| Statistics and Machine Learning | ![](https://img.shields.io/badge/Python-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-statsmodels-informational?style=flat&logo=statsmodels&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-sklearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=6aa6f8)                                                                                                                |
+| Data Visualization              | ![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Microsoft-ThinkCell-informational?style=flat&logo=thinkcell&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Python-Plotly-informational?style=flat&logo=bokeh&logoColor=white&color=6aa6f8)
+| Computational Science           | ![](https://img.shields.io/badge/Linux-Gromacs-informational?style=flat&logo=gromacs&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Linux-VMD-informational?style=flat&logo=vmd&logoColor=white&color=6aa6f8)                                                                                                                                                                                                                                                                                                      |
+| Work Space                      | ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Terminal-iTerm-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 ## :school: Bootcamp Adventures
 
-|Bootcamp|Click Below to Find More|
-|---|---|
-|Datacamp| [Datacamp Profile](https://www.datacamp.com/profile/azkarohbiya)|
-|Hackerrank|[Hackerrank Profile](https://www.hackerrank.com/azkarohbiya)|
-|SoloLearn|[SoloLearn Profile](https://www.sololearn.com/profile/21910164)|
+| Bootcamp   | Click Below to Find More                                         |
+|------------|------------------------------------------------------------------|
+| Datacamp   | [Datacamp Profile](https://www.datacamp.com/profile/azkarohbiya) |
+| Hackerrank | [Hackerrank Profile](https://www.hackerrank.com/azkarohbiya)     |
+| SoloLearn  | [SoloLearn Profile](https://www.sololearn.com/profile/21910164)  |
 
 *Containing Courses, Projects, and Career Tracks*
 
