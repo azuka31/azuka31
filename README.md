@@ -12,6 +12,23 @@ while 'issues' in condition:
     print('Get back to your laptop and fix your code')
 ```
 
+## Experience
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Company Chain</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="timeline">
+    <div class="company" id="companyA">Company A</div>
+    <div class="company" id="companyB">Company B</div>
+    <div class="company" id="companyC">Company C</div>
+</div>
+</body>
+</html>
 
 
 ## :sunglasses: Profile

@@ -1,0 +1,46 @@
+/* styles.css */
+
+body {
+    background-color: black; /* Background of the page */
+    color: white; /* Text color */
+    font-family: Arial, sans-serif; /* Font for the text */
+}
+
+.timeline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+}
+
+.company {
+    background-color: #64485C; /* Background color of the circles */
+    border-radius: 50%; /* Makes the divs circular */
+    width: 50px; /* Width of the circles */
+    height: 50px; /* Height of the circles */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    margin: 0 50px; /* Space between the circles */
+    text-align: center;
+}
+
+.company::before {
+    content: '';
+    position: absolute;
+    background-color: white;
+    width: 100px; /* Length of the connecting lines */
+    height: 2px;
+    top: 50%;
+    z-index: -1;
+}
+
+#companyA::before {
+    left: 50%;
+}
+
+#companyB::before {
+    right: 50%;
+}
