@@ -12,17 +12,11 @@ while 'issues' in condition:
     print('Get back to your laptop and fix your code')
 ```
 
-## Experience
+## :date: Experience
 
-# Company Timeline Diagram
+![image1](picts/experience_draw.excalidraw.png)
 
-<div class="timeline">
-    <div class="company" id="companyA">Company A</div>
-    <div class="company" id="companyB">Company B</div>
-    <div class="company" id="companyC">Company C</div>
-</div>
-
-<link rel="stylesheet" href="assets/styles.css">
+To find out more, please visit [myLinkedIn](https://www.linkedin.com/in/azka-rohbiya-21587a145/)
 
 ## :sunglasses: Profile
 
@@ -68,7 +62,7 @@ I’m super excited to share my workspace journey because it can seriously boost
 Once I switched up my workflow, it completely transformed my productivity. I was able to cut out all those overwhelming processes and start focusing on the strategic areas that really make a difference for my company.
 
 
-![image1](readme_githup_workspace.excalidraw.png)
+![image2](picts/readme_githup_workspace.excalidraw.png)
 
 If you are interested in to learn my setting, I'm so glad to share with you by just click my special repository here 
 [AzukaWorkspace](https://github.com/azuka31/AzukaWorkspace/tree/master)
