@@ -14,22 +14,15 @@ while 'issues' in condition:
 
 ## Experience
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Company Chain</title>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
+# Company Timeline Diagram
+
 <div class="timeline">
     <div class="company" id="companyA">Company A</div>
     <div class="company" id="companyB">Company B</div>
     <div class="company" id="companyC">Company C</div>
 </div>
-</body>
-</html>
 
+<link rel="stylesheet" href="assets/styles.css">
 
 ## :sunglasses: Profile
 
